@@ -1,4 +1,5 @@
-Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemly
+# Spring Security
+Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemly.
 
 Web Application, technologies I used are:
 
@@ -6,5 +7,7 @@ Web Application, technologies I used are:
 2. Maven
 3. MySQL (mysql-connector-java -> JDBC)
 4. JSP
+
+**Testing**
 
 There is a video in folder ./Testing/. Also I add some screenshots of the web applicatacion below. Password for the users to log into the application is fun123.
