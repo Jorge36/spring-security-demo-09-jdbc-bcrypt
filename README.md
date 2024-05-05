@@ -14,21 +14,21 @@ There is a video in folder ./Testing/. Also I add some screenshots of the web ap
 
 ![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/0f8871f61609bf092e43b3874e43dcdc81e83605/Testing/home.png)
 
-Login page
+**Login page**
 
 ![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/0f8871f61609bf092e43b3874e43dcdc81e83605/Testing/login.png)
 
-John Employee
+**John Employee**
 
 ![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/7291d0668c945059f333ae8a094de2c31464581d/Testing/john_home_screen.png)
 
-Mary
+**Mary**
 
 ![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/7291d0668c945059f333ae8a094de2c31464581d/Testing/mary_home_screen.png)
 
 ![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/7291d0668c945059f333ae8a094de2c31464581d/Testing/mary_leaders_screen.png)
 
-Susan
+**Susan**
 
 ![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/7291d0668c945059f333ae8a094de2c31464581d/Testing/susan_home_screen.png)
 
