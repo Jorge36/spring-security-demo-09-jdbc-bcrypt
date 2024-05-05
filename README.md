@@ -12,7 +12,7 @@ Web Application, technologies I used are:
 
 There is a video in folder ./Testing/. Also I add some screenshots of the web applicatacion below. Password for the users to log into the application is fun123.
 
-![alt_text]https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/0f8871f61609bf092e43b3874e43dcdc81e83605/Testing/home.png)
+![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/0f8871f61609bf092e43b3874e43dcdc81e83605/Testing/home.png)
 
 Login page
 
@@ -26,7 +26,7 @@ Mary
 
 ![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/7291d0668c945059f333ae8a094de2c31464581d/Testing/mary_home_screen.png)
 
-![alt_text]https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/7291d0668c945059f333ae8a094de2c31464581d/Testing/mary_leaders_screen.png)
+![alt_text](https://github.com/Jorge36/spring-security-demo-09-jdbc-bcrypt/blob/7291d0668c945059f333ae8a094de2c31464581d/Testing/mary_leaders_screen.png)
 
 Susan
 
